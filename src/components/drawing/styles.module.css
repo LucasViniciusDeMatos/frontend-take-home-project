@@ -1,0 +1,17 @@
+.drawingContainer {
+  background-color: white;
+}
+
+.textInput {
+  position: absolute;
+  min-width: 120px;
+  padding: 0;
+  overflow: hidden;
+  background: transparent;
+  resize: none;
+  border: 0;
+  border-radius: 4px;
+  overflow-wrap: break-word;
+  white-space: normal;
+  word-break: normal;
+}
